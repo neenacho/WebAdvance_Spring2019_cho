@@ -1,0 +1,358 @@
+[
+  {
+    "id": 1,
+    "name": "Claude Monet",
+    "profile-pic": "https://upload.wikimedia.org/wikipedia/commons/5/59/Monet_-_Impression%2C_Sunrise.jpg",
+    "project": {
+      "title": "Impression, Sunrise",
+      "thesis-category": "poeticobjects",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Monet_-_Impression%2C_Sunrise.jpg",
+      "blurb": "Impressionism: Early form",
+      "description": "Impression, Sunrise is a painting by Claude Monet first shown at what would become known as the Exhibition of the Impressionists in Paris in April, 1874. The painting is credited with inspiring the name of the Impressionist movement. Impression, Sunrise depicts the port of Le Havre, Monet's hometown. (Wikipedia)",
+      "studio-professor": [
+        "Scott Pobiner",
+        "David Carroll"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "name": "Claude Monet",
+    "profile-pic": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Claude_Monet_004.jpg",
+    "project": {
+      "title": "Gare Saint-Lazare, the Saint-Lazare railway station, 1877",
+      "thesis-category": "poeticobjects",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Claude_Monet_004.jpg",
+      "blurb": "Impressionism: Early form",
+      "description": "The Gare Saint-Lazare (also known as Interior View of the Gare Saint-Lazare, the Auteuil Line), depicts one of the passenger platforms of the Gare Saint-Lazare, one of Paris’s largest and busiest train terminals. The painting is not so much a single view of a train platform, it is rather a component in larger project of a dozen canvases which attempts to portray all facets of the Gare Saint-Lazare. The paintings all have similar themes—including the play of light filtered through the smoke of the train shed, the billowing clouds of steam, and the locomotives that dominate the site. Of these twelve linked paintings, Monet exhibited between six and eight of them at the third Impressionist exhibition of 1877, where they were among the most discussed paintings exhibited by any of the artists. (More details: https://smarthistory.org/monet-the-gare-saint-lazare/",
+      "studio-professor": [
+        "John Sharp",
+        "Aneta Genova"
+      ]
+    }
+  },
+
+
+
+  {
+    "id": 3,
+    "name": "Édouard Manet",
+    "profile-pic": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Édouard_Manet_-_Le_Déjeuner_sur_l%27herbe.jpg",
+    "project": {
+      "title": "The Luncheon on the Grass, 1862",
+      "thesis-category": "poeticobjects",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Édouard_Manet_-_Le_Déjeuner_sur_l%27herbe.jpg",
+      "blurb": "Impressionism: Early form",
+      "description": "Le Déjeuner sur l'herbe (English: The Luncheon on the Grass) – originally titled Le Bain (The Bath) – is a large oil on canvas painting by Édouard Manet created in 1862 and 1863. It depicts a female nude and a scantily dressed female bather on a picnic with two fully dressed men in a rural setting. Rejected by the Salon jury of 1863, Manet seized the opportunity to exhibit this and two other paintings in the 1863 Salon des Refusés,[1] where the painting sparked public notoriety and controversy. (Wikipedia)",
+      "studio-professor": [
+        "Kate Sicchio",
+        "Marko Tandefelt"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "name": "Édouard Manet",
+    "profile-pic": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Édouard_Manet_-_Olympia_-_Musée_d%27Orsay%2C_Paris.jpg",
+    "project": {
+      "title": "Olympia, 1863",
+      "thesis-category": "poeticobjects",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Édouard_Manet_-_Olympia_-_Musée_d%27Orsay%2C_Paris.jpg",
+      "blurb": "Impressionism: Early form",
+      "description": "Olympia is a painting by Édouard Manet, first exhibited at the 1865 Paris Salon, which shows a nude woman (Olympia) lying on a bed being brought flowers by a servant. Olympia was modelled by Victorine Meurent and Olympia's servant by the art model Laure. Olympia's confrontational gaze caused shock and astonishment when the painting was first exhibited because a number of details in the picture identified her as a prostitute. (Wikipedia)",
+      "studio-professor": [
+        "Melanie Crean",
+        "Marko Tandefelt"
+      ]
+    }
+  },
+  
+
+  {
+    "id": 5,
+    "name": "Pierre-Auguste Renoir",
+    "profile-pic": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Pierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project.jpg",
+    "project": {
+      "title": "Luncheon of the Boating Party, 1880-1",
+      "thesis-category": "poeticobjects",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Pierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project.jpg",
+      "blurb": "Impressionism: Early form",
+      "description": "Luncheon of the Boating Party (1881; French: Le déjeuner des canotiers) is a painting by French impressionist Pierre-Auguste Renoir. Included in the Seventh Impressionist Exhibition in 1882, it was identified as the best painting in the show by three critics. (Wikipedia)",
+      "studio-professor": [
+        "Scott Pobiner",
+        "Aneta Genova"
+      ]
+    }
+  },
+
+  {
+    "id": 6,
+    "name": "Pierre-Auguste Renoir",
+    "profile-pic": "https://upload.wikimedia.org/wikipedia/commons/2/21/Pierre-Auguste_Renoir%2C_Le_Moulin_de_la_Galette.jpg",
+    "project": {
+      "title": "Dance at Le Moulin de la Galette,1876",
+      "thesis-category": "poeticobjects",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/21/Pierre-Auguste_Renoir%2C_Le_Moulin_de_la_Galette.jpg",
+      "blurb": "Impressionism: Early form",
+      "description": "The painting depicts a typical Sunday afternoon at the original Moulin de la Galette in the district of Montmartre in Paris. In the late 19th century, working class Parisians would dress up and spend time there dancing, drinking, and eating galettes into the evening. Like other works of Renoir's early maturity, Bal du moulin de la Galette is a typically Impressionist snapshot of real life. It shows a richness of form, a fluidity of brush stroke, and a flickering, sun-dappled light. (Wikipedia)",
+      "studio-professor": [
+        "Scott Pobiner",
+        "Aneta Genova"
+      ]
+    }
+  },
+
+  {
+    "id": 7,
+    "name": "Edgar Degas",
+    "profile-pic": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Edgar_Germain_Hilaire_Degas_004.jpg",
+    "project": {
+      "title": "Ballet Rehearsal,1873",
+      "thesis-category": "poeticobjects",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Edgar_Germain_Hilaire_Degas_004.jpg",
+      "blurb": "Impressionism: Early form",
+      "description": "Edgar Degas’s 1873 painting Ballet Rehearsal is a complex and iconic painting from one of the founding figures of the Impressionist movement. Painted as part of series of dancing subjects, Ballet Rehearsal is the work of an artist who has become closely identified with the theme of capturing movement – more than half of all of his works depict dancers. Preferring to be identified as a Realist rather than an Impressionist, Degas captured the effects of bodily movement in the same way that Monet and Renoir replicated the shimmering effects of light on water. His works reveal a psychological depth and a profound sense of isolation and existential loneliness. (1st-art-gallery.com)",
+      "studio-professor": [
+        "Scott Pobiner",
+        "Aneta Genova"
+      ]
+    }
+  },
+
+  {
+    "id": 8,
+    "name": "Edgar Degas",
+    "profile-pic": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Edgar_Degas_Place_de_la_Concorde.jpg",
+    "project": {
+      "title": "Place de la Concorde,1875",
+      "thesis-category": "poeticobjects",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Edgar_Degas_Place_de_la_Concorde.jpg",
+      "blurb": "Impressionism: Early form",
+      "description": "Place de la Concorde or Viscount Lepic and his Daughters Crossing the Place de la Concorde is an 1876 oil painting by Edgar Degas. It depicts the cigar-smoking Ludovic-Napoléon Lepic, his daughters, his dog, and a solitary man on the left at Place de la Concorde in Paris. (Wikipedia)",
+      "studio-professor": [
+        "Scott Pobiner",
+        "Aneta Genova"
+      ]
+    }
+  },
+
+ 
+  {
+    "id": 9,
+    "name": "Georges Seurat",
+    "profile-pic": "https://upload.wikimedia.org/wikipedia/commons/6/67/A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.png",
+    "project": {
+      "title": "A Sunday Afternoon on the Island of La Grande Jatte,1884–6",
+      "thesis-category": "playfulexperiences",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/A_Sunday_on_La_Grande_Jatte%2C_Georges_Seurat%2C_1884.png",
+      "blurb": "Impressionism: Mid",
+      "description": "The term Neo-Impressionism refers to a pictorial technique where color pigments are no longer mixed either on the palette or directly on canvas, but instead placed as small dots side by side. A Sunday Afternoon on the Island of La Grande Jatte painted in 1884, is Georges Seurat's most famous work. It is a leading example of pointillist technique, executed on a large canvas. Seurat's composition includes a number of Parisians at a park on the banks of the River Seine. (Wikipedia)",
+      "studio-professor": [
+        "Scott Pobiner",
+        "Aneta Genova"
+      ]
+    }
+  },
+
+  {
+    "id": 10,
+    "name": "Georges Seurat",
+    "profile-pic": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Baigneurs_a_Asnieres.jpg",
+    "project": {
+      "title": "Bathers at Asnières,1884",
+      "thesis-category": "playfulexperiences",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Baigneurs_a_Asnieres.jpg",
+      "blurb": "Impressionism: Mid",
+      "description": "The term Neo-Impressionism refers to a pictorial technique where color pigments are no longer mixed either on the palette or directly on canvas, but instead placed as small dots side by side.",
+      "studio-professor": [
+        "Scott Pobiner",
+        "Aneta Genova"
+      ]
+    }
+  },
+
+  {
+    "id": 11,
+    "name": "Paul Signac",
+    "profile-pic": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Signac_-_Portrait_de_F%C3%A9lix_F%C3%A9n%C3%A9on.jpg",
+    "project": {
+      "title": "Portrait of Félix Fénéon,1890",
+      "thesis-category": "playfulexperiences",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Signac_-_Portrait_de_F%C3%A9lix_F%C3%A9n%C3%A9on.jpg",
+      "blurb": "Impressionism: Mid",
+      "description": "The term Neo-Impressionism refers to a pictorial technique where color pigments are no longer mixed either on the palette or directly on canvas, but instead placed as small dots side by side.",
+      "studio-professor": [
+        "Scott Pobiner",
+        "Aneta Genova"
+      ]
+    }
+  },
+
+  {
+    "id": 12,
+    "name": "Henri Matisse",
+    "profile-pic": "https://upload.wikimedia.org/wikipedia/en/0/07/Matisse-Luxe.jpg",
+    "project": {
+      "title": "Luxe, Calme et Volupté,1904",
+      "thesis-category": "playfulexperiences",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/07/Matisse-Luxe.jpg",
+      "blurb": "Impressionism: Mid",
+      "description": "The term Neo-Impressionism refers to a pictorial technique where color pigments are no longer mixed either on the palette or directly on canvas, but instead placed as small dots side by side. ",
+      "studio-professor": [
+        "Scott Pobiner",
+        "Aneta Genova"
+      ]
+    }
+  },
+
+  
+
+  {
+    "id": 13,
+    "name": "Paul Gauguin",
+    "profile-pic": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Paul_Gauguin_137.jpg",
+    "project": {
+      "title": "Vision After the Sermon, 1888",
+      "thesis-category": "humanmediation",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Paul_Gauguin_137.jpg",
+      "blurb": "Post-Impressionism",
+      "description": "Vision after the Sermon (Jacob Wrestling with the Angel) is an oil painting by French artist Paul Gauguin, completed in 1888. It is now in the National Gallery of Scotland, Edinburgh. It depicts a scene from the Bible in which Jacob wrestles an angel. It depicts this indirectly, through a vision that the women depicted see after a sermon in church. It was painted in Pont-Aven, Brittany, France. (Wikipedia)",
+      "studio-professor": [
+        "Scott Pobiner",
+        "Aneta Genova"
+      ]
+    }
+  },
+
+   {
+    "id": 14,
+    "name": "Paul Gauguin",
+    "profile-pic": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Gauguin_portrait_1889.JPG",
+    "project": {
+      "title": "Self-portrait, 1889–1890",
+      "thesis-category": "humanmediation",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Gauguin_portrait_1889.JPG",
+      "blurb": "Post-Impressionism",
+      "description": "In the autumn of 1889, Gauguin painted this self-portrait, in which he used his Yellow Christ as a background, placing his own likeness beside the reflected image of the golden body of the Redeemer. The face of Christ looks down from the cross onto the head of Gauguin, who in turn fixes his piercing glare on the viewer. Only after January 1890 did he add an image of his self-portrait pot (also in the exhibition). Opposing images of heaven and hell, sacrifice and suffering, bracket Gauguin’s face, filled with intense self-control. (https://orsay.kimbellart.org/exhibit/new-portrait-modes/self-portrait-“-yellow-christ)",
+      "studio-professor": [
+        "Scott Pobiner",
+        "Aneta Genova"
+      ]
+    }
+  },
+
+  {
+    "id": 15,
+    "name": "Vincent Van Gogh",
+    "profile-pic": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Vincent_van_Gogh_%281853-1890%29_-_The_Olive_Trees_%281889%29.jpg",
+    "project": {
+      "title": "The Olive Trees, 1889",
+      "thesis-category": "humanmediation",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Vincent_van_Gogh_%281853-1890%29_-_The_Olive_Trees_%281889%29.jpg",
+      "blurb": "Post-Impressionism",
+      "description": "The olive tree paintings had special significance for van Gogh. A group in May 1889 represented life, the divine and the cycle of life while those from November 1889 arose out of his attempt to symbolize his feelings about Christ in Gethsemane. His paintings of olive pickers demonstrate the relationship between man and nature by depicting one of the cycles of life, harvesting or death. It is also an example of how individuals, through interaction with nature, can connect with the divine. Van Gogh found respite and relief in interaction with nature. When the series of olive tree paintings was made in 1889 he was subject to illness and emotional turmoil, yet the paintings are considered to be among his finest works. (Wikipedia)",
+      "studio-professor": [
+        "Scott Pobiner",
+        "Aneta Genova"
+      ]
+    }
+  },
+
+  {
+    "id": 16,
+    "name": "Vincent Van Gogh",
+    "profile-pic": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Van_Gogh_The_Night_Cafe.jpg",
+    "project": {
+      "title": "The Night Café, 1888",
+      "thesis-category": "humanmediation",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Van_Gogh_The_Night_Cafe.jpg",
+      "blurb": "Post-Impressionism",
+      "description": "The Night Café (French: Le Café de nuit) is an oil painting created by Dutch artist Vincent van Gogh in September 1888 in Arles. Its title is inscribed lower right beneath the signature. The interior depicted is the Café de la Gare, 30 Place Lamartine, run by Joseph-Michel Ginoux and his wife Marie, who in November 1888 posed for Van Gogh's and Gauguin's Arlésienne; a bit later, Joseph Ginoux evidently posed for both artists, too. (Wikipedia)",
+      "studio-professor": [
+        "Scott Pobiner",
+        "Aneta Genova"
+      ]
+    }
+  },
+
+   {
+    "id": 17,
+    "name": "Vincent Van Gogh",
+    "profile-pic": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Vincent_Van_Gogh_0011.jpg",
+    "project": {
+      "title": "Bedroom in Arles, 1888",
+      "thesis-category": "humanmediation",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Vincent_Van_Gogh_0011.jpg",
+      "blurb": "Post-Impressionism",
+      "description": "The painting depicts van Gogh's bedroom at 2, Place Lamartine in Arles, Bouches-du-Rhône, France, known as the Yellow House. The door to the right opened on to the upper floor and the staircase; the door to the left was that of the guest room he held prepared for Gauguin; the window in the front wall looked on to Place Lamartine and its public gardens. This room was not rectangular but trapezoid with an obtuse angle in the left hand corner of the front wall and an acute angle at the right. (Wikipedia)",
+      "studio-professor": [
+        "Scott Pobiner",
+        "Aneta Genova"
+      ]
+    }
+  },
+
+  {
+    "id": 18,
+    "name": "Vincent Van Gogh",
+    "profile-pic": "https://upload.wikimedia.org/wikipedia/commons/6/68/Vincent_van_Gogh_-_Almond_blossom_-_Google_Art_Project.jpg",
+    "project": {
+      "title": "Almond Blossom, 1890",
+      "thesis-category": "humanmediation",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Vincent_van_Gogh_-_Almond_blossom_-_Google_Art_Project.jpg",
+      "blurb": "Post-Impressionism",
+      "description": "Almond Blossoms is from a group of several paintings made in 1888 and 1890 by Vincent van Gogh in Arles and Saint-Rémy, southern France of blossoming almond trees. Flowering trees were special to van Gogh. They represented awakening and hope. He enjoyed them aesthetically and found joy in painting flowering trees. The works reflect the influence of Impressionism, Divisionism, and Japanese woodcuts. Almond Blossom was made to celebrate the birth of his nephew and namesake, son of his brother Theo and sister-in-law Jo. (Wikipedia)",
+      "studio-professor": [
+        "Scott Pobiner",
+        "Aneta Genova"
+      ]
+    }
+  },
+
+  {
+    "id": 19,
+    "name": "Vincent Van Gogh",
+    "profile-pic": "https://upload.wikimedia.org/wikipedia/commons/6/63/Vincent_van_Gogh_-_Wheat_Field_with_Cypresses_-_Google_Art_Project.jpg",
+    "project": {
+      "title": "Wheat Field with Cypresses, 1889",
+      "thesis-category": "humanmediation",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Vincent_van_Gogh_-_Wheat_Field_with_Cypresses_-_Google_Art_Project.jpg",
+      "blurb": "Post-Impressionism",
+      "description": "A Wheatfield with Cypresses is any of three similar 1889 oil paintings by Vincent van Gogh, as part of his wheat field series. All were exhibited at the Saint-Paul-de-Mausole mental asylum at Saint-Rémy near Arles, France, where Van Gogh was voluntarily a patient from May 1889 to May 1890. The works were inspired by the view from the window at the asylum towards the Alpilles mountains. (Wikipedia)",
+      "studio-professor": [
+        "Scott Pobiner",
+        "Aneta Genova"
+      ]
+    }
+  },
+
+   {
+    "id": 20,
+    "name": "Vincent Van Gogh",
+    "profile-pic": "https://upload.wikimedia.org/wikipedia/commons/9/95/Vincent_Van_Gogh_0018.jpg",
+    "project": {
+      "title": "View of Arles, Flowering Orchards, 1889",
+      "thesis-category": "humanmediation",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Vincent_Van_Gogh_0018.jpg",
+      "blurb": "Post-Impressionism",
+      "description": "View of Arles, Flowering Orchards is a painting by Vincent van Gogh, executed in spring 1889, one of several paintings he produced in his Flowering Orchards series while living in Arles. (Wikipedia)",
+      "studio-professor": [
+        "Scott Pobiner",
+        "Aneta Genova"
+      ]
+    }
+  }
+
+
+
+  
+
+
+
+
+  
+
+  
+  
+ 
+]
