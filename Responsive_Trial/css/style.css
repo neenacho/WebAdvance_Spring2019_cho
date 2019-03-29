@@ -1,0 +1,96 @@
+body{
+	background-color: white;
+	margin: 0;
+	text-align: center;
+}
+
+
+@media all and (min-width: 800px) and (max-width: 1200px) {
+	body{
+		background-color: lightgrey;
+	}
+}
+
+
+h1 {
+
+    font-family:Helvetica;
+    color:black;
+	font-size: 4em;
+}
+
+
+
+p {
+	padding-top: 0px;
+	font-family:Helvetica;
+	color:white;
+}
+
+
+
+.box1{
+	
+	position:absolute;
+	width:100%;
+	height:7%;
+	background:black;
+	text-align: center;	
+
+}
+
+
+section{
+	padding-top: 60px;
+	column-count: 4;
+	column-gap: 20px;
+	box-sizing: border-box;
+}
+
+
+
+img{
+
+	margin-top: 20px;
+	box-sizing:10px;
+	width:100%;
+	
+}
+
+
+
+div {
+	position:absolute;
+	width:100%;
+	height:100vh;
+}
+
+iframe {
+	padding-top: 60px;
+	width:100%;
+	height:80vh;
+	align-content: center;
+	top:10%;
+	
+}
+
+.box2{
+	margin-top: 30px;
+	position:absolute;
+	width:100%;
+	height:7%;
+	background:grey;
+	text-align: center;	
+}
+
+.images2{
+	padding-top: 90px;
+	position:relative;
+	column-count: 3;
+	column-gap: 8px;
+	box-sizing: border-box;
+
+}
+
+
+
